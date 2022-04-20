@@ -49,12 +49,15 @@ in order to achieve sustainable enviromental management.
 
 .. toctree::
    :maxdepth: 4
-   :caption: TroFMIS Data Preparation 
+   :caption: LaSWE Factor Modelling
 
-   Background/Forest Canopy Density
-   Background/Forest Change
-   Background/Carbon Emission
-   Background/Forest Alerts
+   Background/Background to WEM
+   Background/Climate Erosivity Factor
+   Background/Erodible Fraction Factor
+   Background/Soil Crust Factor
+   Background/Fractional Vegetation Cover Factor
+   Background/Soil Roughness Factor
+   Background/ILSWE
 
 .. toctree::
    :maxdepth: 3
