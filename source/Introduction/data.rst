@@ -46,6 +46,6 @@ Vegetation cover factor data source included:
 .. _Public Domain: https://creativecommons.org/publicdomain/zero/1.0
 
 
-.. figure:: ../_static/Images/wind.PNG
+.. figure:: ../_static/Images/wind.png
 
 
