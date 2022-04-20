@@ -77,7 +77,7 @@ The user can download the plugin, install as illustrated in the manual, and foll
 
 
 
-.. figure:: ../_static/Images/wind.PNG  
+.. figure:: ../_static/Images/wind.png
     
 .. toctree::
    :maxdepth: 3
