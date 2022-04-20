@@ -8,7 +8,7 @@ Areas susceptible to wind erosion may try to shield themselves
 from destructive forces such as wind erosion, thus the formation of the crusting layer.
 The equation below is applied in the modelling of SCF.
 
-.. figure:: ../_static/Images/SC.png
+.. figure:: ../_static/Images/scform.png
 
 
 Where:
