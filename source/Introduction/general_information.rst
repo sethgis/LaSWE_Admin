@@ -41,11 +41,8 @@ Contributors to the project
 The project takes pride in an experienced team, especially with enviroenmental modelling, the team includes a group originating from the client side, as well as consultant side. The team include:
 Dr. Emmanuel Nkurunziza, Mr. Sendabo Degelo ,Mr. David Ongo, Mr. Ngugi Kimani, Dr. Anthony Odongo, Prof. Elias Acacuwun, Ms. Vivianne Meta, Mr. Seth Nyawacha, Mr. Derick Ongeri, Mr. Collins Asega, Ms. Risper Mutinda, Mr. Morris Mwaura, and Mr. Simon Ndarau.
 
-.. figure:: ../_static/Images/LILI.PNG
-	 :height: 94
-	 :width: 550
-	 :alt: partners
-	 :align: center
+.. figure:: ../_static/Images/LILI.png
+	 
 
 
 Aknowledgement
