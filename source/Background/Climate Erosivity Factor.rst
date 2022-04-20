@@ -16,7 +16,7 @@ The variables above are dynamic in nature, depending on the modelling period, th
 
 Climate Erosivity is computed with the variables as represented in the equation below. The variables are described in the following sections.
 
-.. figure:: ../_static/Images/CE.png
+.. figure:: ../_static/Images/ceform.png
 
 Where: 
 
