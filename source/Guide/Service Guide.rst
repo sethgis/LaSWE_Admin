@@ -1,10 +1,11 @@
 
-.. figure:: ../_static/Images/trofmis3.png
-
-
 ***************************************************
 Django Site Administration Guide
 ***************************************************
+LaSWE backend system is developed on 
+
+
+
 The following document is a system administrators manual that gives information on how to configure and manage
 the TroFMIS. 
 The backend of the system is built on django framework and therefore features the general characteristics of Django admin settings. From the admin panel, the system administrators can manage dataset, users, and system resources,
