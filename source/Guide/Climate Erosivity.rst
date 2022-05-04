@@ -1,9 +1,9 @@
 
-.. figure:: ../_static/Images/trofmis3.png
+.. figure:: ../_static/Images/wind.png
 
 
 ***************************************************
-Updating Forest Canopy Change (FCC)
+Updating Climate Erosivity Regional Output
 ***************************************************
 Forest Canopy change product are subdivided into two, namely the **Reference** and the **Annual** products.
 For the end users to visualise the products in TroFMIS, they products require annual updating just as Forest Canopy Products.
@@ -28,7 +28,7 @@ For instance, uploading 2017 - 2020 forest changes, the django admin takes 2017 
 
 
 
-.. figure:: ../_static/Images/trofmis3.png
+.. figure:: ../_static/Images/wind.png
 
 .. toctree::
    :maxdepth: 3
