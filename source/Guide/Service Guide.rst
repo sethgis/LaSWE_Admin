@@ -31,8 +31,11 @@ The main duties that will be performed by system admins is the updating of the r
 * SUrface Roughness
 * Index of Land Susceptibility to Wind Erosion (ILSWE)
 
+To update rasters in the django admin, the system manager should update through the raster functionality shown in the django function list as illustrated below.
 
+.. figure:: ../_static/Images/raster.png
 
+The rest of the functionalities are not applied in managing LaSWE system, except for the gallery section. Used to upload new sets of images in the system, for users interaction and visualisation.
 
 
 
