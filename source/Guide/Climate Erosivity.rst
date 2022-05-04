@@ -5,26 +5,14 @@
 ***************************************************
 Updating Climate Erosivity Regional Output
 ***************************************************
-Forest Canopy change product are subdivided into two, namely the **Reference** and the **Annual** products.
-For the end users to visualise the products in TroFMIS, they products require annual updating just as Forest Canopy Products.
-To update and upload the products, please follow the steps as illustrated below.
+Climate Erosivity output, after computation, is reclassified into 5 descrete classes, and later uploaded through the django admin.
+The classification applied can be accessed through QGIS on raster classificaytion and symbolization functionalities.
+Once the raster is ready, the manager then updates the datasets, with proper tagging by giving proper names, years and data pixel resolution resolution.
+The process is illustrated below.
 
-Updating Annual and Refernce Products
-***************************************************
-Click the **Raster link** as illustrated below, and populat the form accordingly
+.. figure:: ../_static/Images/ce.png
 
-.. figure:: ../_static/Images/djangochanges.png
-   
-Please remember to save the process after completion of step 1 above.
-
-.. figure:: ../_static/Images/savefcd.png
-
-Repeat the process for updating and uploading the **Reference product** in django admin.
-Both the forest change raster are apploaded as multiband raster to the system, and the system year takes the least year in the bands.
-For instance, uploading 2017 - 2020 forest changes, the django admin takes 2017 as the least year for computation of the progreeive products per year as illustrated below.
-
-.. figure:: ../_static/Images/change_django.png
-
+After the raster has been added succefuly, please click save button and clear cache in order for the updates to reflect on the user interface.
 
 
 
