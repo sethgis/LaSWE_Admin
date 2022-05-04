@@ -64,10 +64,12 @@ in order to achieve sustainable enviromental management.
    :caption: Data Upload and Maintenance
 
    Guide/Service Guide
-   Guide/Forest Canopy Density
-   Guide/Forest Change
-   Guide/Carbon Flux
-   Guide/Forest Alerts
+   Guide/Climate Erosivity
+   Guide/Erodible Fraction
+   Guide/Soil Crust
+   Guide/Surface Roughness
+   Guide/Vegetation Sensitivity
+   Guide/ILSWE
 
    
 
