@@ -1,38 +1,22 @@
-.. figure:: ../_static/Images/trofmis3.png
+
+
+.. figure:: ../_static/Images/wind.png
+
 
 ***************************************************
-Updating Forest Canopy Density Product
+Updating Vegetation Cover Sensitivity (VC) Factor
 ***************************************************
-
-Forest Canopy Density (FCD) is an annual product, and will require upodating every begining of the year, in order for the 
-end users to access the product for the ended year.
-
- To update the FCD product in the system, please upload the product to djangio admin following the steps discussed below.
- Access the **raster** link as illustrated below.
- 
-.. figure:: ../_static/Images/djangofcd.png
-    
-Select and populate the expected section in the form for appropriate saving of FCD product as shown illustrated below.    
+After computing the vegetation cover sensitivity, VC output is reclassified into 5 descrete classes, and later uploaded through the django admin. The classification applied can be accessed through QGIS on raster classification and symbolization functionalities. Once the raster is ready, the system manager updates the datasets, with proper tagging by giving proper names, years and data pixel resolution. The process is illustrated below.
 
 
-.. figure:: ../_static/Images/fcd_upload.png
+.. figure:: ../_static/Images/vc.png
 
-.. note:: 
-Addition of description is not mandatory for uploading the FCD layers, however, it could be relevant when doing revision on the method and route of generating the products.
-   
+After adding the raster successfully,the system manager should click the save button, clear cache in order for the updates to reflect on the user interface. The resolution should always be a maximum of 100 meterS, this is considered as the minimum processing resolution during factor computation.
 
-Remember to save the process after compeletion
+.. figure:: ../_static/Images/wind.png
 
-.. figure:: ../_static/Images/savefcd.png
- 
- 
- 
- 
-
-  
-.. figure:: ../_static/Images/trofmis3.png
-   
 
 
 .. toctree::
    :maxdepth: 3
+
